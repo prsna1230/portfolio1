@@ -276,6 +276,14 @@ nav {
   letter-spacing: 0.2rem;
   font-size: 3.5em;
 }
+.project-heading {
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  letter-spacing: 0.2rem;
+}
+.card {
+  box-shadow: 5px 8px 5px 8px rgb(75, 73, 73);
+}
 /*------------------------- contact start------------------ */
 .contact {
   font-family: "Roboto Slab", serif;
