@@ -269,6 +269,13 @@ nav {
 .progress-line.asp span::after {
   content: "50%";
 }
+/*------------------------- project start=------------------*/
+.project {
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  letter-spacing: 0.2rem;
+  font-size: 3.5em;
+}
 /*------------------------- contact start------------------ */
 .contact {
   font-family: "Roboto Slab", serif;
